@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "34fZD3NUj0U=",
+  "dgSpecHash": "NOM1NWKqbEY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\Pololetni_uloha_linearni_sorty_k_dodelani\\PololetniUloha\\PololetniUloha\\PololetniUloha.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\frant\\Desktop\\School\\PROGRAMOVANI\\C ostre(seminar)\\Pololetni_uloha_linearni_sorty_k_dodelani\\PololetniUloha\\PololetniUloha\\PololetniUloha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frant\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\frant\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\frant\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\frant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

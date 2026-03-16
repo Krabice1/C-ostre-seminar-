@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PololetniUloha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1585b802c31a79e88640ea3f09ce307dfde6c87b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PololetniUloha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PololetniUloha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
