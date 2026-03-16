@@ -1,0 +1,15 @@
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\bin\Debug\net10.0\ABCDE.exe
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\bin\Debug\net10.0\ABCDE.deps.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\bin\Debug\net10.0\ABCDE.runtimeconfig.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\bin\Debug\net10.0\ABCDE.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\bin\Debug\net10.0\ABCDE.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\obj\Debug\net10.0\ABCDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\obj\Debug\net10.0\ABCDE.AssemblyInfoInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\obj\Debug\net10.0\ABCDE.AssemblyInfo.cs
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\obj\Debug\net10.0\ABCDE.csproj.CoreCompileInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\obj\Debug\net10.0\ABCDE.sourcelink.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\obj\Debug\net10.0\ABCDE.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\obj\Debug\net10.0\refint\ABCDE.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\obj\Debug\net10.0\ABCDE.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\obj\Debug\net10.0\ABCDE.genruntimeconfig.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\ABCDE\ABCDE\obj\Debug\net10.0\ref\ABCDE.dll
