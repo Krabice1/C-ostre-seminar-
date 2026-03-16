@@ -1,0 +1,15 @@
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\bin\Debug\net10.0\Keř.exe
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\bin\Debug\net10.0\Keř.deps.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\bin\Debug\net10.0\Keř.runtimeconfig.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\bin\Debug\net10.0\Keř.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\bin\Debug\net10.0\Keř.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\obj\Debug\net10.0\Keř.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\obj\Debug\net10.0\Keř.AssemblyInfoInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\obj\Debug\net10.0\Keř.AssemblyInfo.cs
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\obj\Debug\net10.0\Keř.csproj.CoreCompileInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\obj\Debug\net10.0\Keř.sourcelink.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\obj\Debug\net10.0\Keř.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\obj\Debug\net10.0\refint\Keř.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\obj\Debug\net10.0\Keř.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\obj\Debug\net10.0\Keř.genruntimeconfig.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Keř\Keř\obj\Debug\net10.0\ref\Keř.dll
