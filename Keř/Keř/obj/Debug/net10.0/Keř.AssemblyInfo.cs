@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Keř")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b3bc99dc562d79bdc83d2f168869241e9287b7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99ae66a2626c657452674529e6df6d339b088528")]
 [assembly: System.Reflection.AssemblyProductAttribute("Keř")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Keř")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

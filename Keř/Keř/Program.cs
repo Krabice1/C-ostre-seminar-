@@ -14,7 +14,7 @@
             tree.Insert(2, "f");
 
             Console.WriteLine("TOTO JE STROM"); //Vypis celeho stromu
-            tree.Print();
+            tree.Show();
 
             Console.WriteLine("\nMinimum:"); //Hledani minima
             Node<string> min = tree.FindMin(tree.Root);
@@ -30,7 +30,11 @@
             tree.Remove(4); //Odstraneni prvku
 
             Console.WriteLine("\nStrom po mazani:");
-            tree.Print();
+            tree.Show();
+
+            tree.Insert(4, "l"); //Pridani prvku
+            Console.WriteLine("\nStrom po pridani:");
+            tree.Show();
 
             Console.ReadLine();
         }
@@ -42,7 +46,7 @@
 
         public void Insert(int newKey, T newValue)
         {
-            void _insert(Node<T> node, int newKey, T newValue)
+            void _insert(Node<T> node, int newKey, T newValue) //funkce insert
             {
                 if (newKey < node.Key)
                 {
@@ -58,10 +62,6 @@
                     else
                         _insert(node.RightSon, newKey, newValue);
                 }
-                else
-                {
-                    throw new Exception("Tento klic je jiz zabrany");
-                }
             }
 
             if (Root == null)
@@ -70,7 +70,7 @@
                 _insert(Root, newKey, newValue);
         }
 
-        public Node<T> Find(int key)
+        public Node<T> Find(int key) //funkce find
         {
             Node<T> current = Root;
 
@@ -88,7 +88,7 @@
             return null;
         }
 
-        public Node<T> FindMin(Node<T> node)
+        public Node<T> FindMin(Node<T> node) //funkce findMin
         {
             if (node == null)
                 return null;
@@ -99,22 +99,22 @@
             return node;
         }
 
-        public void Print()
+        public void Show() //funkce Show
         {
-            void _print(Node<T> node)
+            void _show(Node<T> node)
             {
                 if (node == null)
                     return;
 
-                _print(node.LeftSon);
+                _show(node.LeftSon);
                 Console.WriteLine($"{node.Key} : {node.Value}");
-                _print(node.RightSon);
+                _show(node.RightSon);
             }
 
-            _print(Root);
+            _show(Root);
         }
 
-        public void Remove(int key)
+        public void Remove(int key) //funkce remove
         {
             Root = _remove(Root, key);
         }
