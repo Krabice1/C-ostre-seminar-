@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Testicek_oficialni/1.0.0": {
+        "runtime": {
+          "Testicek_oficialni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testicek_oficialni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

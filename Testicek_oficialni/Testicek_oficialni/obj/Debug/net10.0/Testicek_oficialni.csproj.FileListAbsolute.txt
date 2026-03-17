@@ -1,0 +1,15 @@
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\bin\Debug\net10.0\Testicek_oficialni.exe
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\bin\Debug\net10.0\Testicek_oficialni.deps.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\bin\Debug\net10.0\Testicek_oficialni.runtimeconfig.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\bin\Debug\net10.0\Testicek_oficialni.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\bin\Debug\net10.0\Testicek_oficialni.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\obj\Debug\net10.0\Testicek_oficialni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\obj\Debug\net10.0\Testicek_oficialni.AssemblyInfoInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\obj\Debug\net10.0\Testicek_oficialni.AssemblyInfo.cs
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\obj\Debug\net10.0\Testicek_oficialni.csproj.CoreCompileInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\obj\Debug\net10.0\Testicek_oficialni.sourcelink.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\obj\Debug\net10.0\Testicek_oficialni.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\obj\Debug\net10.0\refint\Testicek_oficialni.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\obj\Debug\net10.0\Testicek_oficialni.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\obj\Debug\net10.0\Testicek_oficialni.genruntimeconfig.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Testicek_oficialni\Testicek_oficialni\obj\Debug\net10.0\ref\Testicek_oficialni.dll
