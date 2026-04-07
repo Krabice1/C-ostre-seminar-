@@ -1,0 +1,15 @@
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\bin\Debug\net10.0\fix.exe
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\bin\Debug\net10.0\fix.deps.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\bin\Debug\net10.0\fix.runtimeconfig.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\bin\Debug\net10.0\fix.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\bin\Debug\net10.0\fix.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\obj\Debug\net10.0\fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\obj\Debug\net10.0\fix.AssemblyInfoInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\obj\Debug\net10.0\fix.AssemblyInfo.cs
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\obj\Debug\net10.0\fix.csproj.CoreCompileInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\obj\Debug\net10.0\fix.sourcelink.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\obj\Debug\net10.0\fix.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\obj\Debug\net10.0\refint\fix.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\obj\Debug\net10.0\fix.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\obj\Debug\net10.0\fix.genruntimeconfig.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\fix\fix\obj\Debug\net10.0\ref\fix.dll
