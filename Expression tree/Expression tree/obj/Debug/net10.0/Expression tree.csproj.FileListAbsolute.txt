@@ -1,0 +1,15 @@
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\bin\Debug\net10.0\Expression tree.exe
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\bin\Debug\net10.0\Expression tree.deps.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\bin\Debug\net10.0\Expression tree.runtimeconfig.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\bin\Debug\net10.0\Expression tree.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\bin\Debug\net10.0\Expression tree.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\obj\Debug\net10.0\Expression tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\obj\Debug\net10.0\Expression tree.AssemblyInfoInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\obj\Debug\net10.0\Expression tree.AssemblyInfo.cs
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\obj\Debug\net10.0\Expression tree.csproj.CoreCompileInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\obj\Debug\net10.0\Expression tree.sourcelink.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\obj\Debug\net10.0\Expression tree.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\obj\Debug\net10.0\refint\Expression tree.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\obj\Debug\net10.0\Expression tree.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\obj\Debug\net10.0\Expression tree.genruntimeconfig.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Expression tree\Expression tree\obj\Debug\net10.0\ref\Expression tree.dll
