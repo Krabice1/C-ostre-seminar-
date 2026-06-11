@@ -1,0 +1,15 @@
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\bin\Debug\net10.0\Ucim strom MORSEOVKU.exe
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\bin\Debug\net10.0\Ucim strom MORSEOVKU.deps.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\bin\Debug\net10.0\Ucim strom MORSEOVKU.runtimeconfig.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\bin\Debug\net10.0\Ucim strom MORSEOVKU.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\bin\Debug\net10.0\Ucim strom MORSEOVKU.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\obj\Debug\net10.0\Ucim strom MORSEOVKU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\obj\Debug\net10.0\Ucim strom MORSEOVKU.AssemblyInfoInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\obj\Debug\net10.0\Ucim strom MORSEOVKU.AssemblyInfo.cs
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\obj\Debug\net10.0\Ucim strom MORSEOVKU.csproj.CoreCompileInputs.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\obj\Debug\net10.0\Ucim strom MORSEOVKU.sourcelink.json
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\obj\Debug\net10.0\Ucim strom MORSEOVKU.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\obj\Debug\net10.0\refint\Ucim strom MORSEOVKU.dll
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\obj\Debug\net10.0\Ucim strom MORSEOVKU.pdb
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\obj\Debug\net10.0\Ucim strom MORSEOVKU.genruntimeconfig.cache
+C:\Users\frant\Desktop\School\PROGRAMOVANI\C ostre(seminar)\Ucim strom MORSEOVKU\Ucim strom MORSEOVKU\obj\Debug\net10.0\ref\Ucim strom MORSEOVKU.dll
